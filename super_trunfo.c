@@ -16,7 +16,7 @@ int main(){
     scanf("%c", &estado1);
 
     printf("Código: ");
-    scanf("%s", &codigo1);
+    scanf("%s", &codigo1);  // verificar erro nesta linha
     
     printf("Nome da Cidade: ");
     scanf("%s", &cidade1);
